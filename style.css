@@ -1,0 +1,49 @@
+img{
+    border-radius: 20%;
+    height: 175px;
+    width: 175px;
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.6);
+    border:2px solid white;
+  }
+  .name{
+    display: flex;
+    justify-content: space-around;
+    background: rgba(0,0,0,0.5);
+    margin: auto;
+    border-radius: 40px;
+    border: 2px solid white;
+    margin-top: 30px;
+  }
+  .t{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 40px;
+    border: 2px solid white;
+    margin-top: 1%;
+  }
+  body{
+    background:url("https://wallpaperaccess.com/full/552032.jpg")
+  }
+  h1{
+    font-size:65px;
+    font-kerning: normal;
+    font-style: oblique;
+    font-variant-ligatures: normal;
+    font-variant: small-caps;
+    font-stretch: extra-expanded;
+    color: white;
+  }
+  h2{
+    font-size:20px;
+    font-kerning: normal;
+    font-style: oblique;
+    font-variant-ligatures: normal;
+    font-variant: small-caps;
+    font-stretch: extra-expanded;
+    color: white;
+  }
+  img{
+    margin: 10px;
+  }
+  
